@@ -1,9 +1,10 @@
-RANSAC Toolbox by Marco Zuliani
+# RANSAC Toolbox by Marco Zuliani
+
 email: marco.zuliani@gmail.com
--------------------------------
+
 
 Introduction
-------------
+-------------
 
 This is a research (and didactic) oriented toolbox to explore the
 RANSAC algorithm. The functions are reasonably well documented and
@@ -67,6 +68,7 @@ material (e.g. conferences, journals, workshops...) an acknowledgment
 will be greatly appreciated as well as a copy of your publication. Here are a couple
 of templates for bibtex:
 
+```latex
 @misc{Zuliani08a,
     author={M. Zuliani},
     title={RANSAC toolbox for Matlab},
@@ -81,6 +83,7 @@ of templates for bibtex:
 	month = "Nov.",
 	year = "2008"
 }
+```
 
 
 Updates History (Discontinued: check the log on github)
